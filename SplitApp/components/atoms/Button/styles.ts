@@ -9,6 +9,8 @@ export const buttonStyles = StyleSheet.create({
     borderRadius: 40,
     alignContent: 'center',
     margin: 10,
+    shadowColor: Colors.dark,
+    elevation: 10,
   },
   formBtnTxt: {
     fontSize: 35,
