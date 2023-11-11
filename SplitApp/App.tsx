@@ -1,7 +1,7 @@
-import LandingPage from './components/organisms/LandingPage';
+import Landing from './components/organisms/Landing';
 
 const App = (): JSX.Element => {
-  return <LandingPage />;
+  return <Landing />;
 };
 
 export default App;
